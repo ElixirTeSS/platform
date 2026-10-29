@@ -7,4 +7,3 @@ TeSS is an open source, reusable software platform, and has been deployed by sev
 
 {% include section-navigation-tiles.html custom="tess-platforms, tesshubs" sort=false col=2 %}
 
-For more examples, see [Docs: Global usage of TeSS](https://elixirtess.github.io/docs/overview/global/).

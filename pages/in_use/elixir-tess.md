@@ -7,6 +7,8 @@ hub: ELIXIR TeSSHub
 description: The original TeSS portal, providing computational resources for life sciences across ELIXIR Europe.
 ---
 
+## About ELIXIR TeSS
+
 The original TeSS portal provides computational resources for life sciences across ELIXIR Europe.
 
 [Visit ELIXIR TeSS](https://tess.elixir-europe.org/).
