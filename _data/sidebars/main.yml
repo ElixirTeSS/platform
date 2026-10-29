@@ -1,6 +1,11 @@
 subitems:
   - title: TeSS Platform in use
     url: /in_use
+    subitems:
+      - title: TeSS Platforms
+        url: /tess-platforms
+      - title: TeSS Hubs
+        url: /tesshubs
   - title: Projects
     url: /projects
     subitems:
