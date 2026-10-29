@@ -2,6 +2,7 @@
 title: TeSSHub4EOSC
 permalink: /in-use/tesshub4eosc
 type: tesshub
+page_img: overview/tesshub4eosc-logo.png
 hub: TeSSHub4EOSC
 description: A pilot hub for community-managed training catalogues for EOSC Nodes.
 ---

@@ -2,6 +2,7 @@
 title: SciLifeLab Training Portal
 permalink: /in-use/scilifelab
 type: tess-platform
+page_img: overview/scilifelab-logo.svg
 description: Training for life science professionals across Sweden.
 ---
 

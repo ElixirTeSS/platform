@@ -2,6 +2,7 @@
 title: Helmholtz TeSSHub
 permalink: /in-use/helmholtz-tesshub
 type: tesshub
+page_img: overview/pan-training-logo.png
 description: Community spaces available through the PaN-Training Catalogue.
 ---
 
