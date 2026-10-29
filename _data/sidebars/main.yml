@@ -4,8 +4,32 @@ subitems:
     subitems:
       - title: TeSS Platforms
         url: /tess-platforms
+        subitems:
+          - title: ELIXIR TeSS
+            url: /in-use/elixir-tess
+          - title: PaN-Training Catalogue
+            url: /in-use/pan-training
+          - title: SciLifeLab Training Portal
+            url: /in-use/scilifelab
+          - title: Taxila
+            url: /in-use/taxila
+          - title: HEP Training
+            url: /in-use/hep-training
+          - title: EVERSE Training
+            url: /in-use/everse-training
+          - title: Digital Research Skills Australasia (DReSA)
+            url: /in-use/dresa
+          - title: Explora
+            url: /in-use/explora
       - title: TeSS Hubs
         url: /tesshubs
+        subitems:
+          - title: ELIXIR TeSSHub
+            url: /in-use/elixir-tesshub
+          - title: Helmholtz TeSSHub
+            url: /in-use/helmholtz-tesshub
+          - title: TeSSHub4EOSC
+            url: /in-use/tesshub4eosc
   - title: Projects
     url: /projects
     subitems:
