@@ -1,0 +1,13 @@
+---
+title: SciLifeLab Training Portal
+permalink: /in-use/scilifelab
+type: tess-platform
+page_img: overview/scilifelab-logo.svg
+description: Training for life science professionals across Sweden.
+---
+
+## About SciLifeLab
+
+The SciLifeLab Training Portal provides training for life science professionals across Sweden.
+
+[Visit SciLifeLab Training Portal](https://training.scilifelab.se/).
