@@ -3,4 +3,4 @@ title: Index page
 ---
 
 
-This page serves as a landing page.
+This site is intended to provide information about the TeSS platform used to create training registries.

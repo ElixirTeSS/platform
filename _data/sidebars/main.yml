@@ -1,7 +1,15 @@
 subitems:
   - title: Home
     url: /index
-  - title: Example page
-    url: /example_page
+  - title: TeSS Platform in use
+    url: /in_use
+  - title: Projects
+    url: /projects
+    subitems:
+      - title: mTeSS-X
+        url: /projects/mtess-x
+  - title: Documentation
+    url: /docs
+
 
   
