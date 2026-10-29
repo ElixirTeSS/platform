@@ -3,6 +3,7 @@ title: ELIXIR TeSS
 permalink: /in-use/elixir-tess
 type: tess-platform
 hub: ELIXIR TeSSHub
+description: The original TeSS portal, providing computational resources for life sciences across ELIXIR Europe.
 ---
 
 The original TeSS portal provides computational resources for life sciences across ELIXIR Europe.
