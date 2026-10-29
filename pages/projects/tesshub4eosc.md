@@ -3,7 +3,6 @@ title: TeSSHub4EOSC
 permalink: /projects/tesshub4eosc
 redirect_from:
 - /tesshub4eosc
-- /projects/tesshub4eosc
 ---
 
 Training registry for EOSC nodes and science clusters
