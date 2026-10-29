@@ -1,0 +1,38 @@
+--- 
+title: How to get involved
+---
+
+We incorporate cooperative evaluation continuously, conducting iterative and collaborative evaluation with users throughout development.
+To do this, we arrange events such as the User Requirements Gathering meeting (January 2025), related to project milestones. Throughout projects, we engage with users via Slack, our mailing list, and at the TeSS Club.
+
+* Read more about our [Focus group and events](events).
+
+
+## Communication channels
+
+### Mailing list
+
+* TeSS Club Mailing List
+* [Contact us to be added to the mailing list](contact)
+
+### Slack
+
+* Join us on the [TeSS Platform Slack Workspace](https://join.slack.com/t/tessplatform/shared_invite/zt-3erpke7ph-6t2~_EqUlL_tRkOrNAbb2A)
+
+
+## Regular meetings
+
+### TeSS Club
+
+* Every month, 09:00 GMT/BST / 10:00 CET/CEST on the second Tuesday.
+* [Meeting minutes and connection details](https://docs.google.com/document/d/1nLa6ye6kYBuE0UJgRoqdSakZP94vb2RgQZssyvRCXig/edit?usp=sharing)
+
+### TeSS project meeting
+
+* Every Monday, 09:00 GMT/BST / 10:00 CET/CEST
+* [Contact us to join the project meetings](contact)
+
+### TeSS developer meeting
+
+* Every Wednesday, 13:00 GMT/BST / 14:00 CET/CEST
+* [Contact us to join the project meetings](contact)

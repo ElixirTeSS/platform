@@ -1,6 +1,4 @@
 subitems:
-  - title: Home
-    url: /index
   - title: TeSS Platform in use
     url: /in_use
   - title: Projects
@@ -8,8 +6,15 @@ subitems:
     subitems:
       - title: mTeSS-X
         url: /projects/mtess-x
+      - title: TeSSHub4EOSC
+        url: /projects/tesshub4eosc
+      - title: BITS
+        url: /projects/bits
   - title: Documentation
     url: /docs
-
-
-  
+  - title: Events
+    url: /events
+  - title: Contact us
+    url: /contact
+  - title: How to get involved
+    url: /get-involved

@@ -15,7 +15,7 @@ columns:
     width: 3
     children: 
       - url_text: Documentation
-        external_url: https://elixirtess.github.io/docs/
+        url: /docs/
   - type: image
     image_width: 88px
     width: 2

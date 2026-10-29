@@ -3,13 +3,15 @@ title: Projects
 permalink: /projects
 ---
 
-Projects to fund development of the TeSS Platform.
+Many projects have featured development of the TeSS Platform.
 
 ## Projects 2024-2027 
 
-- [mTeSS-X](/platform/projects/mtess-x)
-- TeSSHub4EOSC
-- BITS
+TeSS is part supported by European and national project funding:
+
+- [mTeSS-X](/platform/projects/mtess-x) (OSCARS Open Science)
+- [TeSSHub4EOSC](/projects/tesshub4eosc) (EOSC Gravity)
+- [BITS](/projects/bits) (Institute for Research Software, UK)
 
 ## Projects 2016-2024
 
