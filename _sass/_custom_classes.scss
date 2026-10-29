@@ -10,3 +10,7 @@
         border-radius: $border-radius;
     }
 }
+
+.navbar a.navbar-brand span {
+    display: none;
+}

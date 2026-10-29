@@ -7,7 +7,7 @@ Projects to fund development of the TeSS Platform.
 
 ## Projects 2024-2027 
 
-- [mTeSS-X](mtess-x)
+- [mTeSS-X](/platform/projects/mtess-x)
 - TeSSHub4EOSC
 - BITS
 

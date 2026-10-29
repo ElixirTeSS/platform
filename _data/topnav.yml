@@ -3,4 +3,6 @@
 subitems:
 - title: Home
   url: /index
+- title: Documentation
+  external_url: https://elixirtess.github.io/docs/
     
