@@ -1,7 +1,7 @@
 ---
 title: EVERSE Training
 permalink: /in-use/everse-training
-type: tess-platform
+type: tess-instance
 page_img: overview/everse-training-logo.png
 description: Training and events to foster research software quality in Europe.
 ---

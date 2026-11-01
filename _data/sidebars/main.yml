@@ -2,8 +2,8 @@ subitems:
   - title: TeSS Platform in use
     url: /in_use
     subitems:
-      - title: TeSS Platforms
-        url: /tess-platforms
+      - title: TeSS Instances
+        url: /tess-instances
         subitems:
           - title: ELIXIR TeSS
             url: /in-use/elixir-tess

@@ -1,7 +1,7 @@
 ---
 title: Digital Research Skills Australasia (DReSA)
 permalink: /in-use/dresa
-type: tess-platform
+type: tess-instance
 page_img: overview/dresa-logo.png
 description: Browse, discover, and organise digital research events and training resources.
 ---
