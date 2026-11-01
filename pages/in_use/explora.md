@@ -1,7 +1,7 @@
 ---
 title: Explora
 permalink: /in-use/explora
-type: tess-platform
+type: tess-instance
 page_img: overview/explora-logo.png
 description: Canadian digital research infrastructure training from the Digital Research Alliance of Canada.
 ---
