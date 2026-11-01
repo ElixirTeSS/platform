@@ -1,3 +1,9 @@
-- name: 
-  date: 
-  description: 
+- name: "Presentation at EOSC Symposium 2026 in Florence, Italy"
+  date: 2026-10-14
+  description: "Phil Reed presents the TeSSHub4EOSC project to the [EOSC Symposium 2026](https://eosc.eu/symposium-2026) as a FAIR training catalogue infrastructure suitable for federation. [Prerecorded video on YouTube](https://youtu.be/2TbZFGqle38). [doi:10.5281/zenodo.23423757](https://doi.org/10.5281/zenodo.23423757)"
+- name: "Presentation at the European e-Infra group (online)"
+  date: 2026-10-26
+  description: "Oliver Knodel and Phil Reed present the TeSS Platform to the European e-Infra group. "
+- name: "Presentation to ELIXIR FAIR Training Working Group (online)"
+  date: 2026-11-04
+  description: "Phil Reed presents the Minimum metadata model for Training Registry eXchange (TRX) to the ELIXIR FAIR Training Working Group."

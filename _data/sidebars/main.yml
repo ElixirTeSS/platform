@@ -41,6 +41,8 @@ subitems:
         url: /projects/bits
   - title: Documentation
     url: /docs
+  - title: News
+    url: /news
   - title: Events
     url: /events
   - title: Contact us
